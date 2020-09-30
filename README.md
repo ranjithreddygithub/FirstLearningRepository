@@ -1,2 +1,2 @@
 # FirstLearningRepository
-Learn end to end building single Python Project
+I am here to learn python and its fundamentals for useful applications in daily lives.
